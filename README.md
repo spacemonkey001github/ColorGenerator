@@ -1,2 +1,3 @@
 # ColorGenerator
 Color Generator Exercise From "The Complete Web Developer Course" Udemy
+<a href="https://spacemonkey001github.github.io/ColorGenerator/"> Click here to visit </a>
